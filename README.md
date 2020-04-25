@@ -1,4 +1,4 @@
-# qiniuyun 七牛云  nodejs sdk
+# qiniuyun 七牛云  nodejs服务端批量上传文件
 node api.  qiniuyun
 
 # node.js  sdk
